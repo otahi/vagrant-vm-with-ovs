@@ -1,0 +1,28 @@
+* vagrant-vm-with-ovs
+This project provides vagrant VMs with openvswitch.
+
+** Purpose
+To create an environment includes OpenFlow sitches and a OpenFlow Controller.
+
+** Backgrounds
+It is difficult to install openvswitch into Mac OS X or Windows.
+If it is possible to create openvswitch envirionment on VMs,
+I can study OpenFlow switches without Linux as a host OS.
+
+** TODOs
+- install openvswitch and start
+- install Trema controller
+- connect openvswithes to Trema controller
+
+** DONEs
+- creates openvswitch rpms for centos64
+
+
+** References
+-[[http://n40lab.wordpress.com/2013/06/03/centos-6-4-openvswitch-installation/][CentOS 6.4 – Openvswitch installation ; n40lab]]
+
+
+
+
+
+
