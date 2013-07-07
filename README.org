@@ -10,12 +10,12 @@ If it is possible to create openvswitch envirionment on VMs,
 I can study OpenFlow switches without Linux as a host OS.
 
 ** TODOs
-- creates openvswitch rpms for centos64
 - install openvswitch and start
 - install Trema controller
 - connect openvswithes to Trema controller
 
 ** DONEs
+- creates openvswitch rpms for centos64
 
 
 ** References
